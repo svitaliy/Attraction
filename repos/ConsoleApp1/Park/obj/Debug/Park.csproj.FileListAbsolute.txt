@@ -1,0 +1,13 @@
+p:\users\ptcvas10\source\repos\ConsoleApp1\Park\bin\Debug\Park.exe.config
+p:\users\ptcvas10\source\repos\ConsoleApp1\Park\bin\Debug\Park.exe
+p:\users\ptcvas10\source\repos\ConsoleApp1\Park\bin\Debug\Park.pdb
+p:\users\ptcvas10\source\repos\ConsoleApp1\Park\obj\Debug\Park.csproj.CoreCompileInputs.cache
+p:\users\ptcvas10\source\repos\ConsoleApp1\Park\obj\Debug\Park.exe
+p:\users\ptcvas10\source\repos\ConsoleApp1\Park\obj\Debug\Park.pdb
+P:\Users\ptcvas10\source\repos\ConsoleApp1\Park\bin\Debug\Park.xml
+P:\Users\ptcvas10\source\repos\ConsoleApp1\Park\bin\Debug\System.Configuration.ConfigurationManager.dll
+P:\Users\ptcvas10\source\repos\ConsoleApp1\Park\bin\Debug\System.Security.AccessControl.dll
+P:\Users\ptcvas10\source\repos\ConsoleApp1\Park\bin\Debug\System.Security.Permissions.dll
+P:\Users\ptcvas10\source\repos\ConsoleApp1\Park\bin\Debug\System.Security.Principal.Windows.dll
+P:\Users\ptcvas10\source\repos\ConsoleApp1\Park\obj\Debug\Park.csproj.CopyComplete
+P:\Users\ptcvas10\source\repos\ConsoleApp1\Park\obj\Debug\Park.csprojAssemblyReference.cache
